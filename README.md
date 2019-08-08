@@ -1,2 +1,3 @@
 # Spectrum-V-Javascript-Edition
-I sprinkled some Javascript to the original rendition.
+Author: Collins Muriuki
+Languages: HTML, CSS and Javascript
